@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am an aspiring Data Engineer with a background in Industrial Chemistry, currently focused on building strong foundations in data systems, pipelines, and analytics engineering.<br><br>I work with SQL and Python to clean, transform, and analyze data, and I am actively developing skills in database design, ETL processes, and data modeling. My goal is to build reliable, scalable data infrastructure that supports real-world decision-making.<br><br>I am passionate about turning raw data into meaningful insights and continuously improving my understanding of modern data engineering tools and practices.
+#  About Me:
+I am a Data Engineer with a background in Industrial Chemistry, currently focused on building strong foundations in data systems, pipelines, and analytics engineering.<br><br>I work with SQL and Python to clean, transform, and analyze data, and I am actively developing skills in database design, ETL processes, and data modeling. My goal is to build reliable, scalable data infrastructure that supports real-world decision-making.<br><br>I am passionate about turning raw data into meaningful insights and continuously improving my understanding of modern data engineering tools and practices.
 
 
 # 💻 Tech Stack:
